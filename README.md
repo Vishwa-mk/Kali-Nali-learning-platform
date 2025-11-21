@@ -25,9 +25,7 @@ A digital learning environment where play becomes the primary engine of understa
    
    Then edit `.env` and add:
    - Your Google AI API key: `GOOGLE_GENAI_API_KEY=your_actual_api_key_here`
-   - Generate a NextAuth secret: `NEXTAUTH_SECRET=$(openssl rand -base64 32)`
-   - Set the NextAuth URL: `NEXTAUTH_URL=http://localhost:3000`
-
+   
 3. **Run the development server:**
    ```bash
    npm run dev
@@ -40,11 +38,6 @@ A digital learning environment where play becomes the primary engine of understa
 4. **Open your browser:**
    Navigate to [http://localhost:3000](http://localhost:3000)
    
-   You'll be redirected to the sign-in page. Use the demo account:
-   - Email: `demo@example.com`
-   - Password: `demo123`
-   
-   Or create a new account using the sign-up option.
 
 ## Available Scripts
 
@@ -62,13 +55,6 @@ A digital learning environment where play becomes the primary engine of understa
 - `ai/` - Genkit AI flows and configuration
 - `hooks/` - Custom React hooks
 
-## Authentication
-
-The app uses NextAuth.js for authentication with email/password credentials. All routes are protected by default except the authentication pages (`/auth/signin`).
-
-- **Sign In/Sign Up:** Available at `/auth/signin`
-- **Protected Routes:** All pages require authentication
-- **User Management:** In-memory storage (replace with database in production)
 
 ## Tech Stack
 
@@ -77,8 +63,8 @@ The app uses NextAuth.js for authentication with email/password credentials. All
 - **Styling:** Tailwind CSS
 - **UI Components:** Radix UI + shadcn/ui
 - **AI:** Genkit with Google AI (Gemini)
-- **Authentication:** NextAuth.js
 - **State Management:** React Context API
 
-
+<img width="1554" height="4904" alt="localhost_3000_" src="https://github.com/user-attachments/assets/ca3cf18a-71e8-49ed-ba0b-692d46d6a561" />
 ![alt text](localhost_3000_projects_1.png)
+<img width="1554" height="2368" alt="localhost_3000_projects_1 (1)" src="https://github.com/user-attachments/assets/4877f0c0-8451-40f0-b1fb-ee6c5ffb8eca" />
