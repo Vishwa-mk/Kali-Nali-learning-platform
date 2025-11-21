@@ -65,7 +65,7 @@ A digital learning environment where play becomes the primary engine of understa
 - **AI:** Genkit with Google AI (Gemini)
 - **State Management:** React Context API
 
-<img width="355" height="490" alt="localhost_3000_" src="https://github.com/user-attachments/assets/ca3cf18a-71e8-49ed-ba0b-692d46d6a561" />
+<img width="300" height="490" alt="localhost_3000_" src="https://github.com/user-attachments/assets/ca3cf18a-71e8-49ed-ba0b-692d46d6a561" />
 <img width="255" height="336" alt="localhost_3000_projects_1 (1)" src="https://github.com/user-attachments/assets/0b7e6206-df31-4b3d-ba71-cdeba5563a04" />
 <img width="255" height="335" alt="localhost_3000_profile" src="https://github.com/user-attachments/assets/e1d34e04-4081-42ec-9825-5fd675941fbb" />
 
